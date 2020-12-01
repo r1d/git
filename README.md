@@ -75,8 +75,9 @@ git remote -v
 
 # cheat sheets
 
-https://education.github.com/git-cheat-sheet-education.pdf (en)
+https://education.github.com/git-cheat-sheet-education.pdf (en pdf)
 
-https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf (fr)
+https://training.github.com/downloads/fr/github-git-cheat-sheet/ (fr)
+https://training.github.com/downloads/fr/github-git-cheat-sheet.pdf (fr pdf)
 
 https://help.github.com/git-cheat-sheets/ (en)
