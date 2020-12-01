@@ -74,4 +74,6 @@ git remote -v
 (git remote rm bitbucket)
 
 # cheat sheet
-GitHub git cheatsheet: help.github.com/git-cheat-sheets/
+GitHub git cheatsheet: 
+
+https://help.github.com/git-cheat-sheets/
