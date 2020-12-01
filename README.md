@@ -71,6 +71,7 @@ git remote //liste
 git remote -v
 
 (git remote rename old new)
+
 (git remote rm bitbucket)
 
 # cheat sheet
