@@ -1,4 +1,3 @@
-# git-cheat-sheet.md
 git command --help
 
 # first time
